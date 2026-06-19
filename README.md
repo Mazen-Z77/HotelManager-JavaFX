@@ -160,5 +160,5 @@ L'application met en œuvre l'ensemble des contrôles attendus :
 ##  Auteurs
 
 Projet réalisé par :
-Mazen El Allali
-Zouhir Attanouti
+Zouhir Attanouti - Mazen El Allali
+
