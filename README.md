@@ -1,4 +1,4 @@
-# 🏨 HotelManager — Application de gestion hôtelière
+# HotelManager — Application de gestion hôtelière
 
 Application de bureau **JavaFX** permettant de gérer les **chambres** et les
 **réservations** d'un hôtel, avec persistance dans une base de données
@@ -12,27 +12,27 @@ Consulter le Rapport de Projet (PDF)
 Visionner la Démonstration Vidéo : https://drive.google.com/file/d/1YrTv9qJOYLXgQ5RI23Xc1SadWFOLL-GK/view?usp=sharing
 ---
 
-## 🌟 Ce qui rend cette application unique
+##  Ce qui rend cette application unique
 
 - **Interface premium « Maison Azur »** : barre latérale de navigation à dégradé,
   en-tête raffiné, cartes à ombrage et coins arrondis.
-- **🌓 Mode clair / sombre** : bascule instantanée depuis l'en-tête ou le menu,
+- ** Mode clair / sombre** : bascule instantanée depuis l'en-tête ou le menu,
   toute l'application change de palette.
-- **🎨 Accent dynamique cohérent** : la couleur choisie au tableau de bord
+- ** Accent dynamique cohérent** : la couleur choisie au tableau de bord
   recolore aussi la barre latérale et les graphiques (looked-up colors CSS).
-- **🕑 En-tête vivant** : horloge en temps réel, date et salutation contextuelle
+- ** En-tête vivant** : horloge en temps réel, date et salutation contextuelle
   (Bonjour / Bon après-midi / Bonsoir).
-- **🔔 Notifications toast** non bloquantes pour les actions réussies (à la place
+- ** Notifications toast** non bloquantes pour les actions réussies (à la place
   des pop-ups modales), avec animation d'entrée/sortie.
-- **🧠 Analyses intelligentes** : recommandations générées automatiquement
+- ** Analyses intelligentes** : recommandations générées automatiquement
   (niveau d'occupation, réservations en attente, type le plus rentable, durée
   moyenne de séjour, tarif moyen).
-- **📈 Compteurs animés** : les indicateurs du tableau de bord s'animent de 0
+- ** Compteurs animés** : les indicateurs du tableau de bord s'animent de 0
   jusqu'à leur valeur.
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
 - **Gestion des chambres** (entité 1) : ajout, modification, suppression,
   recherche instantanée, filtrage par type, export CSV.
@@ -48,7 +48,7 @@ Visionner la Démonstration Vidéo : https://drive.google.com/file/d/1YrTv9qJOYL
 
 ---
 
-## 🧱 Architecture du projet
+##  Architecture du projet
 
 ```
 HotelManagerFX/
@@ -100,7 +100,7 @@ HotelManagerFX/
 
 ---
 
-## 🔧 Prérequis
+##  Prérequis
 
 - **JDK 17** ou supérieur
 - **Apache Maven 3.8+**
@@ -111,7 +111,7 @@ HotelManagerFX/
 
 ---
 
-## 🚀 Installation et lancement
+##  Installation et lancement
 
 ### 1. Créer la base de données
 
@@ -140,7 +140,7 @@ mvn clean javafx:run
 
 ---
 
-## 🎛️ Composants JavaFX utilisés
+##  Composants JavaFX utilisés
 
 L'application met en œuvre l'ensemble des contrôles attendus :
 
@@ -159,7 +159,8 @@ L'application met en œuvre l'ensemble des contrôles attendus :
 
 ---
 
-## 👤 Auteurs
+##  Auteurs
 
-Projet réalisé par les étudiant(e)s de la filière **GI3 — ENSAO**, dans le cadre
-du module *Développement Java IHM* (2025-2026).
+Projet réalisé par :
+Zouhir Attanouti - Mazen El Allali
+
